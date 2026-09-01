@@ -6,7 +6,7 @@
 
 主仓库：[https://github.com/rosy233333/vsched2](https://github.com/rosy233333/vsched2)
 
-适配调度器的AsyncOS版本：[https://github.com/rosy233333/async-os](https://github.com/rosy233333/async-os)
+适配调度器的AsyncOS版本：[https://github.com/rosy233333/async-os/tree/vdso-test](https://github.com/rosy233333/async-os/tree/vdso-test)
 
 ## 基于vDSO的进程间通信模块
 
